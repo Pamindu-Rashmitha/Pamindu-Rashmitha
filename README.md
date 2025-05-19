@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pamindu-rashmitha&label=Profile%20views&color=0e75b6&style=flat" alt="pamindu-rashmitha" /> </p>
 
-- 🔭 I’m currently working on **Restaurant-Table-Reservation-Platform**
+- 🔭 I’m currently working on [Restaurant-Table-Reservation-Platform](https://github.com/Pamindu-Rashmitha/RestaurantTableReservationPlatform-1-)
 
 - 🌱 I’m currently learning **Python,React,flutter**
 
