@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pamindu-rashmitha&label=Profile%20views&color=0e75b6&style=flat" alt="pamindu-rashmitha" /> </p>
 
-- 🔭 I’m currently working on [Web-based market store](https://github.com/Pamindu-Rashmitha/market-store-1)
+- 🔭 I’m currently working on [Heritage Slabs](https://github.com/Pamindu-Rashmitha/market-store-1)
 
 - 🌱 I’m currently learning **Spring Boot,AI-ML**
 
