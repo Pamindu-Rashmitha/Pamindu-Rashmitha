@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pamindu Rashmitha
 
-### 🚀 AI Enthusiast | MERN Developer | Future AI-ML Engineer
+### 🚀 AI Enthusiast | MERN Developer 
 
 ---
 
