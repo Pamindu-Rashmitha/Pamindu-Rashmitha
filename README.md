@@ -1,19 +1,89 @@
-<h1 align="center">Hi 👋, I'm Pamindu Rashmitha</h1>
-<h3 align="center">An undergraduate at SLIIT passionate in machine learning and AI</h3>
+# 👋 Hi, I'm Pamindu Rashmitha
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pamindu-rashmitha&label=Profile%20views&color=0e75b6&style=flat" alt="pamindu-rashmitha" /> </p>
+### 🚀 AI Enthusiast | MERN Developer | Future ML Engineer
 
-- 🔭 I’m currently working on [Heritage Slabs](https://github.com/Pamindu-Rashmitha/market-store-1)
+---
 
-- 🌱 I’m currently learning **Spring Boot,AI-ML**
+## 🧠 About Me
 
-- 📫 How to reach me **pamidurashmitha@gmail.com**
+* 🔭 Currently building **MERN Projects, RAG Systems & Agentic AI**
+* 🌱 Learning **LangChain, LangGraph & Advanced MERN**
+* 👨‍💻 Portfolio:
+  👉 https://pamindu-rashmitha.vercel.app
+* 📫 Reach me: **[pamidurashmitha@gmail.com](mailto:pamidurashmitha@gmail.com)**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🌐 Connect with Me
+
 <p align="left">
-<a href="https://linkedin.com/in/pamindu rashmitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pamindu rashmitha" height="30" width="40" /></a>
-<a href="https://instagram.com/piece_ctrl_pamii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piece_ctrl_pamii" height="30" width="40" /></a>
+<a href="https://github.com/Pamindu-Rashmitha"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+<a href="https://linkedin.com/in/Pamindu%20Rashmitha"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+<a href="https://instagram.com/piece_ctrl_pamii"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+## ⚒️ Tech Stack
+
+### 💻 Languages & Frameworks
+
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,python,c,html,css,react,nodejs,express,django,flask,fastapi,spring)](https://skillicons.dev)
+
+---
+
+### 🧠 AI / Data Science
+
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn)](https://skillicons.dev)
+
+* Pandas • NumPy • Matplotlib • Seaborn
+* Hugging Face • LangChain • LangGraph • RAG Systems • OpenCV
+
+---
+
+### 🗄️ Databases
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
+
+* MongoDB (NoSQL)
+* MySQL (Relational)
+* PostgreSQL (Advanced SQL)
+
+---
+
+### 🛠️ Tools & Platforms
+
+[![My Skills](https://skillicons.dev/icons?i=git,linux,figma,postman,tailwind,vercel)](https://skillicons.dev)
+
+* Git & GitHub
+* Linux / Unix
+* Figma (UI/UX Design)
+* Postman (API Testing)
+* Tailwind CSS
+* Vercel (Deployment)
+* Render, Railway (Deployment)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pamindu-Rashmitha&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Current Focus
+
+* 🔹 Building **AI-powered applications (RAG + Agents)**
+* 🔹 Scaling **full-stack MERN systems**
+* 🔹 Exploring **LLMs & real-world AI integration**
+
+---
+
+## ✨ Fun Fact
+
+> I don’t just write code - I build systems that *think* 🤖
+
+---
